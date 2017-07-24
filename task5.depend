@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1463173347 source:/home/baz/Desktop/task5/main.cpp
+	<iostream>
+	<fstream>
+	<omp.h>
+	"f.h"
+	"vertex.h"
+	"triangle.h"
+	"triangulation.h"
+
+1463169412 /home/baz/Desktop/task5/f.h
+
+1463095620 /home/baz/Desktop/task5/vertex.h
+	<vector>
+	<iostream>
+	<ostream>
+
+1463095647 /home/baz/Desktop/task5/triangle.h
+	<vector>
+	<iostream>
+	<ostream>
+
+1463174460 /home/baz/Desktop/task5/triangulation.h
+	<omp.h>
+	<vector>
+	<iostream>
+	<ostream>
+
