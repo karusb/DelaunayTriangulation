@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1463410501 source:c:\users\baris\desktop\esd\part2\main.cpp
+	<iostream>
+	<fstream>
+	"f.h"
+	"vertex.h"
+	"triangle.h"
+	"triangulation.h"
+	"Interval.h"
+
+1463165842 c:\users\baris\desktop\esd\part2\f.h
+
+1463408408 c:\users\baris\desktop\esd\part2\vertex.h
+	<vector>
+	<iostream>
+	<ostream>
+
+1463408502 c:\users\baris\desktop\esd\part2\triangle.h
+	<vector>
+	<iostream>
+	<ostream>
+
+1463410840 c:\users\baris\desktop\esd\part2\triangulation.h
+	<vector>
+	<iostream>
+	<ostream>
+	<math.h>
+
+1463282770 c:\users\baris\desktop\esd\part2\interval.h
+	<iostream>
+
